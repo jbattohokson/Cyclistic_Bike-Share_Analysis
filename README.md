@@ -1,7 +1,7 @@
 # 91% of rides come from members.
 ### So why are casual riders the conversion opportunity?
 
-> **[Live Report](https://jbattohokson.github.io/Cyclistic_Bike_Share_Analysis/Bike-Share_Analysis.html)** | [GitHub Repo](https://github.com/jbattohokson/Cyclistic_Bike_Share_Analysis)
+> **[Live Report](https://jbattohokson.github.io/Cyclistic_Bike_Share_Analysis/Bike-Share_Analysis.html)** | **[Tableau Dashboard](https://public.tableau.com/app/profile/julian.batto.hokson/viz/Cyclist_Bike_Share_Viz_V1/Dashboard2)** | [GitHub Repo](https://github.com/jbattohokson/Cyclistic_Bike_Share_Analysis)
 
 ---
 
